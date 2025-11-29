@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://cocoapods.org/pods/Firebase">
+      <a href="https://cocoapods.org/pods/Firebase">
     <img src="https://img.shields.io/github/v/release/Firebase/firebase-ios-sdk?style=flat&label=CocoaPods"/>
   </a>
   <a href="https://swiftpackageindex.com/firebase/firebase-ios-sdk">
